@@ -1,0 +1,3 @@
+echo "CBR assemble"
+cp phinms/target/*.jar target/
+/usr/local/s2i/assemble
